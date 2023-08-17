@@ -6,6 +6,7 @@
 - https://curved-plane.vercel.app/
 - https://outline-text-effect.vercel.app/
 - https://fbo-particles-eta.vercel.app/
+- https://jimousse.github.io/animated-galaxy/
 
 <!--
 **jimousse/jimousse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
