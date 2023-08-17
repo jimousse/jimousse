@@ -4,9 +4,9 @@
 
 [![Portal](./portal.gif)](https://portal-scene-xi.vercel.app/)
 [![Fox](./fox.gif)](https://jimousse.github.io/threejs-fox/)
+[![Curved](./curved.gif)](https://curved-plane.vercel.app/)
+[![Outline](./outline.gif)](https://outline-text-effect.vercel.app/)
 
-- https://curved-plane.vercel.app/
-- https://outline-text-effect.vercel.app/
 - https://fbo-particles-eta.vercel.app/
 - https://jimousse.github.io/animated-galaxy/
 
