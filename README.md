@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ## Three.js projects
-- https://portal-scene-xi.vercel.app/
+
+[![Portal](./portal.gif)](https://portal-scene-xi.vercel.app/)
+
 - https://jimousse.github.io/threejs-fox/
 - https://curved-plane.vercel.app/
 - https://outline-text-effect.vercel.app/
@@ -18,4 +20,3 @@
 ![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=)
 
 
-[![Portal](./portal.gif)](https://portal-scene-xi.vercel.app/)
