@@ -3,8 +3,8 @@
 ## Three.js projects
 
 [![Portal](./portal.gif)](https://portal-scene-xi.vercel.app/)
+[![Fox](./fox.gif)](https://jimousse.github.io/threejs-fox/)
 
-- https://jimousse.github.io/threejs-fox/
 - https://curved-plane.vercel.app/
 - https://outline-text-effect.vercel.app/
 - https://fbo-particles-eta.vercel.app/
