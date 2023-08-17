@@ -8,8 +8,12 @@
 [![Outline](./outline.gif)](https://outline-text-effect.vercel.app/)
 [![FBO](./fbo.gif)](https://fbo-particles-eta.vercel.app/)
 [![FBO](./galaxy.gif)](https://jimousse.github.io/animated-galaxy/)
+[![Game](./r3fgame.gif)](https://r3f-game-tan.vercel.app/)
 
 
+
+
+### Technologies
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 ![Three.js](https://img.shields.io/static/v1?style=for-the-badge&message=Three.js&color=000000&logo=Three.js&logoColor=FFFFFF&label=)
