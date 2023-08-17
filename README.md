@@ -6,9 +6,9 @@
 [![Fox](./fox.gif)](https://jimousse.github.io/threejs-fox/)
 [![Curved](./curved.gif)](https://curved-plane.vercel.app/)
 [![Outline](./outline.gif)](https://outline-text-effect.vercel.app/)
+[![FBO](./fbo.gif)](https://fbo-particles-eta.vercel.app/)
+[![FBO](./galaxy.gif)](https://jimousse.github.io/animated-galaxy/)
 
-- https://fbo-particles-eta.vercel.app/
-- https://jimousse.github.io/animated-galaxy/
 
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
